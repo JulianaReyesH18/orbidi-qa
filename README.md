@@ -1,0 +1,2 @@
+# orbidi-qa
+QA practices
